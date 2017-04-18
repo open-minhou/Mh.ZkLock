@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mc.JobDispater", "Mc.JobDispater\Mc.JobDispater.csproj", "{B95206F8-281C-48AE-B83A-F9507789A93E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mc.ZookeeperLock", "Mc.ZookeeperLock\Mc.ZookeeperLock.csproj", "{2181E963-405F-497C-9C35-6E0D0A82CFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mc.JobDispatherTest", "Mc.JobDispatherTest\Mc.JobDispatherTest.csproj", "{476491E5-73E4-41F6-ABB4-2874AC3D3E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95206F8-281C-48AE-B83A-F9507789A93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95206F8-281C-48AE-B83A-F9507789A93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95206F8-281C-48AE-B83A-F9507789A93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95206F8-281C-48AE-B83A-F9507789A93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2181E963-405F-497C-9C35-6E0D0A82CFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2181E963-405F-497C-9C35-6E0D0A82CFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2181E963-405F-497C-9C35-6E0D0A82CFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2181E963-405F-497C-9C35-6E0D0A82CFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476491E5-73E4-41F6-ABB4-2874AC3D3E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476491E5-73E4-41F6-ABB4-2874AC3D3E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476491E5-73E4-41F6-ABB4-2874AC3D3E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476491E5-73E4-41F6-ABB4-2874AC3D3E77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
